@@ -33,9 +33,9 @@ class App extends Component {
                         left: '50%',
                         top: '50%',
                         borderRadius: '50%',
-                        width: percentage * 1500,
+                        width: percentage * 500,
                         height: percentage * 500,
-                        transform: "translate(-50%, -50%)"
+                        transform: "translate(-50%, -50%) skew(50, 100)"
                     }}
                 />
                 <div
